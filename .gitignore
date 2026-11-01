@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets: database passwords etc.
+.env
+
+# Raw data: large files, anyone can download them from data.gov.lv
+data/raw/
+
+# Power BI / Office temp files
+~$*
+*.pbix.bak
