@@ -228,3 +228,6 @@ data/raw/
 # Power BI / Office temp files
 ~$*
 *.pbix.bak
+
+# Private tutor rules for Claude Code
+CLAUDE.MD
